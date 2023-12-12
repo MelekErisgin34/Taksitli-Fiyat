@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tasitli Fiyat Uygulaması", "Tasitli Fiyat Uygulaması\Tasitli Fiyat Uygulaması.csproj", "{462DABC0-DE4C-4766-8A7B-7BD21AF24722}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{462DABC0-DE4C-4766-8A7B-7BD21AF24722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{462DABC0-DE4C-4766-8A7B-7BD21AF24722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{462DABC0-DE4C-4766-8A7B-7BD21AF24722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{462DABC0-DE4C-4766-8A7B-7BD21AF24722}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3BD99C6-86CA-44C9-9416-D39A8E01620A}
+	EndGlobalSection
+EndGlobal
